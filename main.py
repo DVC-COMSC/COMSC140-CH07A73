@@ -1,7 +1,8 @@
 
-num1 = list(map(int, input().split()))
-num2 = list(map(int, input().split()))
 
+numbers = [5, 20, 30, 35, 50]
+
+insval = int(input('Enter the insertion value: '))
 # ******************************
 # Make your Code
 # ******************************
